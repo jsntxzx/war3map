@@ -1,4 +1,4 @@
 war3map
 =======
 
-A tool to open map in war3
+A tool to cheat in war3 dota map
